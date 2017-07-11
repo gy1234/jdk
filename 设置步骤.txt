@@ -1,4 +1,4 @@
-下载和安装jdk 安装路径 p (eg: C:/Program Files/Java/jdk1.7.0 )
+下载和安装jdk 安装路径 p (eg: C:\Program Files\Java\jdk1.7.0 )
 新建系统变量  JAVA_HOME   设值 p
-新建系统变量  CLASS_PATH  设值 .;%JAVA_HOME%/lib;%JAVA_HOME%/lib/tools.jar
-编辑系统变量  PATH   最前面设值 ;%JAVA_HOME%/bin;%JAVA_HOME%/jre/bin;
+新建系统变量  CLASSPATH  设值 .;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar
+编辑系统变量  Path   最前面设值 ;%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;
